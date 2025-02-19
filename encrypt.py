@@ -2,7 +2,7 @@ import cv2
 import os
 import numpy as np
 
-img = cv2.imread("C:/users/deepanshika/OneDrive/Desktop/New_folder/picture.png")
+img = cv2.imread("picture.png")
 
 img = img.astype(np.uint8)
 
