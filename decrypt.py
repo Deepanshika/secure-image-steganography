@@ -1,6 +1,6 @@
 import cv2
 
-image = cv2.imread("C:/Users/DEEPANSHIKA/OneDrive/Documents/GitHub/secure-image-steganography/encryptedImage.png")
+image = cv2.imread("encryptedImage.png")
 
 passcode = input("Enter the passcode for decryption : ")
 
